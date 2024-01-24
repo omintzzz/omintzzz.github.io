@@ -1,0 +1,55 @@
+html {
+    font-size: 25px; 
+    font-family: "Pangolin", cursive; 
+  }
+  h1 {
+    font-size: 80px;
+    text-align: center;
+  }
+  
+  p,
+  li {
+    font-size: 25px;
+    line-height: 2;
+    letter-spacing: 1px;
+    color: white;
+  }
+
+  html {
+    background-color: #81b38c;
+  }
+  
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #4f875c;
+    text-shadow: 3px 3px 1px white;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  h2 {
+    font-size: 50px;
+    text-align: center;
+    color:#4f875c;
+    text-shadow: 3px 3px 1px white;
+  }
+
+  p,
+  h3 {
+    font-size: 30px;
+    line-height: 2;
+    letter-spacing: 1px;
+    text-align: center;
+    color: white;
+  }
+
+  h4 {
+    font-size: 30px;
+    text-align: center;
+    color:#43714e;
+    text-shadow: 3px 3px 1px white;
+  }
+
