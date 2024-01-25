@@ -31,18 +31,3 @@ function show() {
   document.getElementById("btnID")
       .style.display = "none";
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
